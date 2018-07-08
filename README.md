@@ -30,3 +30,9 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+使用说明：
+该项目注册为移动端微信注册，pc没有注册通道
+可以使用下面账号查看：
+账号： 842458343@qq.com
+密码： Circus..
